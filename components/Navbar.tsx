@@ -3,7 +3,7 @@ import MobileMenu from "./MobileMenu";
 import NavbarItem from "./NavbarItem";
 
 import { BsChevronDown, BsSearch, BsBell } from 'react-icons/bs';
-import AccountMenu from './AcoountMenu';
+import AccountMenu from './AccountMenu';
 
 const TOP_OFFSET = 66;
 
